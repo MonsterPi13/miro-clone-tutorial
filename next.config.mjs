@@ -7,7 +7,8 @@ const nextConfig = {
         hostname: "img.clerk.com"
       }
     ]
-  }
+  },
+  trailingSlash: false
 };
 
 export default nextConfig;
